@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 53170e7633553544d8149a6c77e80bb6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 466
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050135bf81bd168488f2af81e1f29999
+      internalID: -670647170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 466
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b8443e92d7224d9c08d6351d146f1
+      internalID: -772746195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 467
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d27646f0c84b74199c81deb528f0f2
+      internalID: -449084476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 467
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace3880675dba0245b796fd188ed1b11
+      internalID: -2061844900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 469
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca902a4b59435040853dbd058af4d6d
+      internalID: 445946141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 470
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6d669373c9624b80118997438f385
+      internalID: 1355026726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 471
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e592bdf5284801d4da33b1b14e615a33
+      internalID: -1599818143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_7
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 471
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52673cbdb685b2d448fa503cc5afc1a5
+      internalID: -1678280686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_8
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 331
+        width: 93
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef796918991c048adc36c6d25c974a
+      internalID: -2130124253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 272
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b68d87204abf489400de0f0fad3f5
+      internalID: 1393146370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 284
+        width: 281
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c3414c62df14b42b9646a9bbd55375
+      internalID: -1506232775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 344
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f1faa8ca9ae9c40881a697e765aa0f
+      internalID: -1398021144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_12
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 342
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78d439f93bd48a42a125df438fdf786
+      internalID: -447843357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 340
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3634f06f843cbd43bc11cafe7749f8c
+      internalID: -1408070345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_14
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 339
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e6570f6f92ac45991a0dc84c002cc
+      internalID: 719954543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 258
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6567b863e944f409b220abcc0d1963
+      internalID: -1441109925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669973895_1-pibig-info-p-strelok-sprait-instagram-1_16
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 300
+        width: 235
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f79bd0b4de5968439b20ebf726e3222
+      internalID: -953228175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_14: 719954543
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_3: -2061844900
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_4: 445946141
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_7: -1678280686
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_2: -449084476
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_15: -1441109925
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_12: -447843357
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_16: -953228175
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_1: -772746195
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_9: 1393146370
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_0: -670647170
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_11: -1398021144
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_13: -1408070345
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_6: -1599818143
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_5: 1355026726
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_8: -2130124253
+      1669973895_1-pibig-info-p-strelok-sprait-instagram-1_10: -1506232775
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
